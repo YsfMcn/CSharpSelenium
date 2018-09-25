@@ -1,0 +1,12 @@
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.dll
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\bin\Debug\WebDriver.dll
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\bin\Debug\WebDriver.Support.dll
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\bin\Debug\WebDriver.xml
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\bin\Debug\WebDriver.Support.xml
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csprojAssemblyReference.cache
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.dll
+C:\Users\ysf\Desktop\SoftServe\Selenium-Automation\CSharpSelenium\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb
