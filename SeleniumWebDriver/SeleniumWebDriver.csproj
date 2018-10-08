@@ -61,12 +61,38 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="HomePageTests.cs" />
+    <Compile Include="Core\BasePage.cs" />
+    <Compile Include="Core\BasePageElemetMap.cs" />
+    <Compile Include="Core\BaseTest.cs" />
+    <Compile Include="Core\BrowserType.cs" />
+    <Compile Include="Core\Driver.cs" />
+    <Compile Include="Core\IPage.cs" />
+    <Compile Include="Pages\CreateTaskPage\CreateTaskPage.cs" />
+    <Compile Include="Pages\CreateTaskPage\CreateTaskPageElementMap.cs" />
+    <Compile Include="Pages\DashboardPage\DashboardPage.cs" />
+    <Compile Include="Pages\DashboardPage\DashboardPageElementMap.cs" />
+    <Compile Include="Pages\HomePage\HomePage.cs" />
+    <Compile Include="Pages\HomePage\HomePageElementMap.cs" />
+    <Compile Include="Pages\LoginPage\LoginPage.cs" />
+    <Compile Include="Pages\LoginPage\LoginPageElementMap.cs" />
+    <Compile Include="Pages\PassworChangePage\PasswordChangePage.cs" />
+    <Compile Include="Pages\PassworChangePage\PasswordChangePageElementMap.cs" />
+    <Compile Include="TestData\Models\MessagesKeys.cs" />
+    <Compile Include="TestData\Models\Task.cs" />
+    <Compile Include="TestData\Models\User.cs" />
+    <Compile Include="TestData\TestData.cs" />
+    <Compile Include="Tests\ChangingPasswordTest.cs" />
+    <Compile Include="Tests\CreateNewTaskTest.cs" />
+    <Compile Include="Tests\DeleteCreatedTaskTests.cs" />
+    <Compile Include="Tests\EditTaskTests.cs" />
+    <Compile Include="Tests\HomePageTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\LoginPageTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
